@@ -1,0 +1,28 @@
+{
+    "name": "zk1",
+    "version": "1.0.0",
+    "description": "zk1",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "gulp-clean-css": "^4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-uglify": "^3.0.1",
+        "gulp": "^4.0.0",
+        "gulp-webserver": "^0.9.1",
+        "gulp-sass": "^4.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build": "gulp build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wzybnzy/zk1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Wzybnzy/zk1/issues"
+    },
+    "homepage": "https://github.com/Wzybnzy/zk1#readme"
+}
